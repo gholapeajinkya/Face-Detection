@@ -3,7 +3,7 @@ import cv2
 #import sys
 
 imagePath = "selena.jpg"
-cascPath = "haarcascade_frontalface_default.xml"
+cascPath = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
 
 # Creating the haar cascade
 faceCascade = cv2.CascadeClassifier(cascPath)
