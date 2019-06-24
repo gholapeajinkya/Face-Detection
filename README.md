@@ -10,10 +10,9 @@ This image is given to the program as input & output will be displayed as follow
 
 **Let's see another example (gui)**
 
-![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/guidemo.png)
+![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
 
-As we can see the above screen shot of window, contains three buttons and an image that shows the faces found surrounded by squere and count of facse(number of faces found in image) 
+As we can see the above screen shot of window, contains two buttons and an image that shows the faces found surrounded by squere and count of facse(number of faces found in image) 
 
 - **Browse Image** button is used to take an image from storage files, after this the processed image will be displayed.
-- **Delete Image** button is used to remove the already preccessed image before choosing another image to processing.
 - **Save Image** as name suggest this button is used to save the proccessed image at intended location in file.
