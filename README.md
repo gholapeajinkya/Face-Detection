@@ -5,7 +5,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 * Python 3
 ### Installing
-A step by step series of examples that tell you how to get a development env running
+A step by step series of instruction that tell you how to get a development env running
 1. [Click here](https://www.python.org/downloads/) to download **python 3**
 2. **tkinter**
 ```
