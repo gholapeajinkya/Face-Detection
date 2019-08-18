@@ -20,7 +20,7 @@ pip install PIL
 pip install opencv-python
 ```
 ## Running the tests
-<img align="left" title=""input image width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
+<img align="left" title="input image" width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
 <img width="400" title="output image" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
 
 ![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
