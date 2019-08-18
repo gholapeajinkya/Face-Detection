@@ -7,25 +7,21 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 A step by step series of examples that tell you how to get a development env running
 1. [Click here](https://www.python.org/downloads/) to download **python 3**
-2. tkinter
+2. **tkinter**
 ```
 pip install tkinter
 ```
-3. numpy
-```
-pip install numpy
-```
-4. PIL
+3. **PIL**
 ```
 pip install PIL
 ```
-5. opencv
+4. **opencv**
 ```
 pip install opencv-python
 ```
 ## Running the tests
-<img align="left" width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
-<img width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
+<img align="left" title=""input image width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
+<img width="400" title="output image" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
 
 ![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
 
@@ -34,6 +30,7 @@ As we can see the above screenshot of UI, contains two buttons, a scale and an i
 - **Browse Image** button is used to take an image from storage files, after this the processed image will be displayed.
 - **Scale** using this scale we can adjust the scale factor.
 - **Save Image** as name suggest this button is used to save the proccessed image at intended location in file.
+
 ## Authors
 * **Ajinkya Gholape** 
 
