@@ -29,10 +29,11 @@ pip install opencv-python
 
 ![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
 
-As we can see the above screen shot of window, contains two buttons, a scale and an image that shows the faces found surrounded by squere and count of facse(number of faces found in image) 
+As we can see the above screenshot of UI, contains two buttons, a scale and an image that shows the faces found surrounded by squere and count of faces(number of faces found in image) 
 
 - **Browse Image** button is used to take an image from storage files, after this the processed image will be displayed.
 - **Scale** using this scale we can adjust the scale factor.
 - **Save Image** as name suggest this button is used to save the proccessed image at intended location in file.
 ## Authors
 * **Ajinkya Gholape** 
+
