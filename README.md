@@ -1,12 +1,31 @@
 # Face-Detection
-This repository contains console based & ui based python program file.
-The program takes input as an image & processes it to find out faces from input image and display number of faces found in image
-**Let's see an example**
-This image is given to the program as input & output will be displayed as follows: 
+The main purpose of this project to make smart face detection software that can identifies human faces in digital images, can have application in fields like mobile selfies, IOT based project like home automation, Crowd counting.
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Prerequisites
+* Python 3
+### Installing
+A step by step series of examples that tell you how to get a development env running
+1. [Click here](https://www.python.org/downloads/) to download **python 3**
+2. tkinter
+```
+pip install tkinter
+```
+3. numpy
+```
+pip install numpy
+```
+4. PIL
+```
+pip install PIL
+```
+5. opencv
+```
+pip install opencv-python
+```
+## Running the tests
 <img align="left" width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
 <img width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
-
-**Let's see another example (gui)**
 
 ![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
 
@@ -15,3 +34,5 @@ As we can see the above screen shot of window, contains two buttons, a scale and
 - **Browse Image** button is used to take an image from storage files, after this the processed image will be displayed.
 - **Scale** using this scale we can adjust the scale factor.
 - **Save Image** as name suggest this button is used to save the proccessed image at intended location in file.
+## Authors
+* **Ajinkya Gholape** 
