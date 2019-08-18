@@ -2,11 +2,9 @@
 This repository contains console based & ui based python program file.
 The program takes input as an image & processes it to find out faces from input image and display number of faces found in image
 **Let's see an example**
-![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png)
-
 This image is given to the program as input & output will be displayed as follows: 
-
-![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg)
+<img align="left" width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
+<img width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
 
 **Let's see another example (gui)**
 
