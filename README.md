@@ -23,7 +23,7 @@ pip install opencv-python
 <img align="left" title="input image" width="400" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena.png">
 <img width="400" title="output image" height="400" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/lena_face.jpg">
 
-![alt text](https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png)
+<img width="820" title="output image" height="750" src="https://github.com/ajinkyagholape1998/Face_Detection/blob/master/Face%20Detection%20Gui/sample_gui.png">
 
 As we can see the above screenshot of UI, contains two buttons, a scale and an image that shows the faces found surrounded by squere and count of faces(number of faces found in image) 
 
