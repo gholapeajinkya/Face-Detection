@@ -1,5 +1,5 @@
 # Face-Detection
-The main purpose of this project to make smart face detection software that can identifies human faces in digital images, can have application in fields like mobile selfies, IOT based project like home automation, Crowd counting.
+The main purpose of this project to make smart face detection software that can identify human faces in digital images can have application in fields like mobile selfies, IOT based project like home automation, Crowd counting.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
