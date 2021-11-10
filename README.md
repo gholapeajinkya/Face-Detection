@@ -1,4 +1,10 @@
 # Face-Detection
+<p>
+<img src="https://img.shields.io/github/forks/ajinkyagholape1998/Face-Recognition.svg"/>
+  <img src="https://img.shields.io/github/stars/ajinkyagholape1998/Face-Recognition.svg"/>
+<img src="https://img.shields.io/github/watchers/ajinkyagholape1998/Face-Recognition.svg"/>
+</p>
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 The main purpose of this project to make smart face detection software that can identify human faces in digital images can have application in fields like mobile selfies, IOT based project like home automation, Crowd counting.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
